@@ -14,7 +14,7 @@ public class AssignT5 {
         //divisible by all the numbers between 1 to n
         int num=5;
         int ans=1;
-       for(int i=2;i<=num;i++){
+       for(int i=2;i<=3;i++){
        
        ans=findLcm(ans,i);
        }
